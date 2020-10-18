@@ -3,5 +3,4 @@
 
 Requirements:
 
-1. Tessaract 
-
+1. Tesseract
